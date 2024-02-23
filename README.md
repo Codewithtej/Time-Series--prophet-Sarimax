@@ -26,7 +26,7 @@ The project is structured as follows:
 
 
 ## Files Included
-- **train_final_project.csv**: The dataset used for modeling and forecasting.
+- **timeseries_project.csv**: The dataset used for modeling and forecasting.
 - **requirements.txt**: File containing the required Python packages.
 
 ## Results
