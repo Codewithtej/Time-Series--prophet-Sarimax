@@ -1,4 +1,4 @@
-# Time-Series Forecasting Project--prophet-Sarimax
+# Active wind power forecasting
 #### University project
 
 # Time Series 
