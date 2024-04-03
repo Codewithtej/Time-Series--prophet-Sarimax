@@ -6,6 +6,7 @@
 ## Overview
 This project focuses on time series forecasting using the SARIMAX and ETS (Error, Trend, Seasonality) models. The dataset used in this project contains historical data of wind farm parameters including active power, wind speed, wind direction, and ambient temperature. The goal is to predict future values of active power based on the provided features.
 
+
 ## Project Structure
 The project is structured as follows:
 - **Data Preparation**: The initial step involves data loading, preprocessing, and exploration to understand the dataset's characteristics. This includes handling missing values, converting date/time columns, and visualizing the data.
